@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Kauã Moura, tenho 18 anos e sou natural de Fortaleza. Concluí o ensino médio na E.E.E.P Poeta Sino Pinheiro, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFANOR. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Kauã Moura]([https://www.youtube.com/@KauaM0uraa/featured])".
+Me chamo Kauã Moura, tenho 18 anos e sou natural de Fortaleza. Concluí o ensino médio na E.E.E.P Poeta Sino Pinheiro, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFANOR. Sou apaixonado por tecnologia.
 
 ### 🤖 Linguagens e Tecnologias
 
